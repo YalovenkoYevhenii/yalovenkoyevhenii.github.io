@@ -1,0 +1,272 @@
+body {
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+	color: #272727;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+header {
+		background: url(../img/first-bg.jpg) no-repeat center top / cover;
+		 
+		height: 100vh;
+}
+
+.container {
+	width: 930px;
+	margin: 0 auto;
+}
+
+
+.logo {
+	margin-top: 41px;
+	float: left;
+}
+
+.clearfix {
+	content: '';
+	display: table;
+	width: 100%;
+	clear: both;
+
+}
+
+
+nav {
+	float: right;
+	margin-top: 45px;
+}
+
+.menu {
+	padding: 0;
+	margin:0;
+	display: block;
+
+}
+
+
+
+
+.menu li {
+	float: left;
+	display: block;
+	margin-right: 41px;
+
+}
+
+.menu a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px; 
+	color: #fff;
+}
+.titles_first {
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 140px;
+}
+h1 {
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 75px;
+	text-align: center;
+	margin: 15px;
+}
+
+.button {
+	text-decoration: none;
+	text-align: center;
+	color: #494745;
+	font-size: 18px;
+	font-weight: bold;
+	display: block;
+	text-transform: uppercase;
+	background-color: #f2d048;
+	width: 240px;
+	padding: 20px 0;
+	border-radius: 3px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+.title {
+	padding-top: 120px;
+
+
+
+}
+
+.title h2 {
+	margin: 0;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+
+}
+
+.title p {
+	margin-top: 5px;
+	font-size: 16px;
+	text-align: center;
+	color: #767676;
+
+}
+
+
+.services {
+	margin-top: 80px;
+	padding-bottom: 120px;
+}
+
+.services_item {
+	width: 250px;
+	float: left;
+	text-align: center;
+}
+
+
+.services_item h3 {
+	font-size: 18px;
+	margin-bottom: 5px;
+
+}
+
+.services_item p {
+	color: #777777;
+	line-height: 1.55em;
+}
+
+.services_item:last-child {
+	float: right;
+}
+
+.services_item:nth-child(2) {
+	margin-left: 95px;
+}
+
+
+#portfolio {
+	background-color: #f7f7f7; 
+}
+
+.works img:last-child {
+	float: right;
+	
+}
+
+.works img:nth-child(2) {
+	margin-left: 30px;
+}
+
+.works {
+	margin-top: 80px;
+	padding-bottom: 120px;
+}
+
+
+
+.achivements h4 {
+	font-size: 18px;
+	margin: 0;
+	text-align: right;
+	margin-bottom: 16px;
+	line-height: 1.40em;
+}
+
+.achivements p {
+	font-size: 14px;
+	color: #777777;
+	margin: 0;
+	text-align: right;
+	line-height: 1.70em;
+
+	
+}
+
+.achivements {
+	width: 500px;
+	margin-bottom: 15px;
+	margin-top: 80px;
+	margin-left: 53px;
+	float: left;
+}
+
+.h4p {
+	width: 280px;
+	float: left;
+	
+}
+
+.achivements img {
+	float: right;
+}
+
+
+.achivements span {
+	text-transform: uppercase;
+
+}
+
+
+
+
+.achivements1 h4 {
+	font-size: 18px;
+	margin: 0;
+	text-align: left;
+	margin-bottom: 16px;
+	line-height: 1.40em;
+}
+
+.achivements1 p {
+	font-size: 14px;
+	color: #777777;
+	margin: 0;
+	text-align: left;
+	line-height: 1.70em;
+
+	
+}
+
+
+.achivements1 {
+	width: 500px;
+	margin-bottom: 15px;
+	margin-top: 80px;
+	margin-right: 59px;
+	float: right;
+}
+
+.h4p1 {
+	width: 280px;
+	float: right;
+	
+}
+
+.achivements1 img {
+	float: left;
+}
+
+
+.achivements span {
+	text-transform: uppercase;
+}
+
+h5 {
+	font-size: 14px;
+	color: #555555;
+	margin: 0;
+	padding: 0;
+	margin-top: 130px;
+	margin-bottom: 50px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: normal;
+}
+
